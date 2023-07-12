@@ -21,7 +21,8 @@ local blacklist = {
 892917079 and "baxuan1242",
 1426606839 and "hackcc16",
 3899214734 and "chemhan78121",
-3896699123 and "chemhan21323"
+3896699123 and "chemhan21323",
+1370768463 and "hackcc11"
 }
 
 
